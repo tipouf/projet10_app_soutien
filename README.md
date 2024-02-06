@@ -5,3 +5,9 @@
 [copy kanban notion](https://www.notion.so/Dev4U-projet-Learn-Home-c5bf9b63627845fe9656b04718be8d98)
 
 [synthese de la demande client](https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/Front-End+V2/P8+-+Gestion+de+projet/Notes+-+Re%CC%81union+Learn%40Home.pdf)
+
+
+
+## FIGMA
+
+[FIGMA](https://www.figma.com/file/ogmoFXvOXwLGbjZQlXz1s1/Maquette-learn%40home?type=design&node-id=1-2&mode=design&t=nPCEkuO5gDuWTQ9Q-0)
